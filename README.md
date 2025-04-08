@@ -51,13 +51,8 @@ To visualize Amazon sales data and generate actionable insights through interact
 - Power BI Desktop  
 - DAX (Data Analysis Expressions)  
 - Query Editor for Data Cleaning  
-- Map Visuals for Geo Insights  
+- Map Visuals for Geo Insight
 
----
-
-## 🖼️ Preview
-
-> 
 
 ---
 
